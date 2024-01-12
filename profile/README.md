@@ -14,6 +14,19 @@
 <a href="https://github.com/The-Kids-RobinAge/Movies/blob/main/March of the Penquins/About">March of the Penquin </a>
   - [Track](https://www.amazon.com/March-Penguins-Morgan-Freeman/dp/B0014C3KSM)
 
+** Santa Picks: Christmas Flicks**
+<a href="https://github.com/The-Kids-RobinAge/Movies/blob/main/March of the Penquins/About"> The Grinch </a>
+  - [Track](https://www.primevideo.com/detail/The-Grinch/0HBUSZ5WNXYHEMIIG3B2TQ6HPM))
+<a href="https://github.com/The-Kids-RobinAge/Movies/blob/main/Klaus/About"> Klaus </a>
+  - [Track](https://www.primevideo.com/detail/Klaus/0IE90UDSKY7W2CSGIB8A1EDZQE/ref=atv_nb_lcl_it_IT?language=it_IT&ie=UTF8)
+<a href="https://github.com/The-Kids-RobinAge/Movies/blob/main/A Boy Called Christmas/About">A Boy Called Christmas </a>
+  - [Track](https://www.amazon.co.uk/Boy-Called-Christmas-Maggie-Smith/dp/B09Q53RTRJ)
+<a href="https://github.com/The-Kids-RobinAge/Movies/blob/main/Jingle Jangle: A Christmas Journey/About">Jingle Jangle: A Christmas Journey </a>
+  - [Track](https://www.amazon.com/Jingle-Jangle-Christmas-Journey-Original/dp/B08MX68YYV)
+<a href="https://github.com/The-Kids-RobinAge/Movies/blob/main/Elf/About"> Elf </a>
+  - [Track]https://www.amazon.com/Elf-Will-Ferrell/dp/B09PQ88296
+
+
 <!--
 
 **Here are some ideas to get you started:**
