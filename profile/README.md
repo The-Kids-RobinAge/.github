@@ -49,9 +49,24 @@
 | 4      |  A LIFE ON PLANET   | |
 | 5      |  MISSION BLUE  |  |
 
+**6 Movies to Watch This Summer**
+| Sl. No | Movie Name         |                                   Track                                           |
+|--------|--------------------| ----------------------------------------------------------------------------------|
+| 1      | THE PARENT TRAP      | [Trailor](https://www.amazon.com/Microcosmos-Kristin-Scott-Thomas/dp/B08Z8BYXBD)  |
+| 2      | DUNSTON CHECKS IN     | [Track](https://www.amazon.com/Ivory-Game-H-Scott-Salinas/dp/B073JP2CXZ)          |
+| 3      | CARS | [Track](https://www.amazon.com/March-Penguins-Morgan-Freeman/dp/B0014C3KSM)       |
+| 4      | DOLPHIN TALE  | |
+| 5      |THE GOONIES  |  |
+| 6      |MOANA  |  |
 
-
-
+**5 Movies to Watch This Mother’s Day**
+| Sl. No | Movie Name         |                                   Track                                           |
+|--------|--------------------| ----------------------------------------------------------------------------------|
+| 1      | WONDER      | [Trailor](https://www.amazon.com/Microcosmos-Kristin-Scott-Thomas/dp/B08Z8BYXBD)  |
+| 2      | THE BLIND SIDE     | [Track](https://www.amazon.com/Ivory-Game-H-Scott-Salinas/dp/B073JP2CXZ)          |
+| 3      | FREAKY FRIDAY | [Track](https://www.amazon.com/March-Penguins-Morgan-Freeman/dp/B0014C3KSM)       |
+| 4      | TURNING RED  | |
+| 5      |THE INCREDIBLES  |  |
 <!--
 
 <a href="https://github.com/The-Kids-RobinAge/Movies/blob/main/Microcosmos/About">Microcosmos</a>
