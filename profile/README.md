@@ -5,7 +5,7 @@
 
 **Movies**
 
-[Microcosmos](https://www.amazon.com/Microcosmos-Kristin-Scott-Thomas/dp/B08Z8BYXBD) [Go to GitHub](https://github.com/AnushaKostka/Movies/Microcosmos)
+[Microcosmos](https://www.amazon.com/Microcosmos-Kristin-Scott-Thomas/dp/B08Z8BYXBD) [Click Here](https://github.com/AnushaKostka/Movies/)
 
 
 <!--
