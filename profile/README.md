@@ -68,7 +68,7 @@
 | 4      | TURNING RED  | |
 | 5      |THE INCREDIBLES  |  |
 
-**Must-watch Patriotic Films for Kids 2023!**
+**Must-watch Patriotic Films for Kids 2022!**
 | Sl. No | Movie Name         |                                   Track                                           |
 |--------|--------------------| ----------------------------------------------------------------------------------|
 | 1      | THE LEGEND OF BHAGAT SINGH      | [Trailor](https://www.amazon.com/Microcosmos-Kristin-Scott-Thomas/dp/B08Z8BYXBD)  |
@@ -78,6 +78,16 @@
 | 5      |RANG DE BASANTI  |  |
 | 6      |SENANI SANE GURUJI |  |
 | 7      | BAPU NE KAHA THA  |   |
+
+**5 Movies to Watch this Christmas 2022**
+**Must-watch Patriotic Films for Kids 2022!**
+| Sl. No | Movie Name         |                                   Track                                           |
+|--------|--------------------| ----------------------------------------------------------------------------------|
+| 1      | THE POLAR EXPRESS      | [Trailor](https://www.amazon.com/Microcosmos-Kristin-Scott-Thomas/dp/B08Z8BYXBD)  |
+| 2      | THE CHRISTMAS CHRONICLES     | [Track](https://www.amazon.com/Ivory-Game-H-Scott-Salinas/dp/B073JP2CXZ)          |
+| 3      | FRED CLAUS | [Track](https://www.amazon.com/March-Penguins-Morgan-Freeman/dp/B0014C3KSM)       |
+| 4      | A BOY CALLED CHRISTMAS  | |
+| 5      |HOW THE GRINCH STOLE CHRISTMAS  |  |
 <!--
 
 <a href="https://github.com/The-Kids-RobinAge/Movies/blob/main/Microcosmos/About">Microcosmos</a>
