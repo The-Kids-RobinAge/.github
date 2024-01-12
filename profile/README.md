@@ -21,6 +21,24 @@
 | 3      | A Boy Called Christmas              | [Track](https://www.amazon.co.uk/Boy-Called-Christmas-Maggie-Smith/dp/B09Q53RTRJ)     |
 | 4      | Jingle Jangle: A Christmas Journey  | [Track](https://www.amazon.com/Jingle-Jangle-Christmas-Journey-Original/dp/B08MX68YYV)  |
 | 5      | Elf                                 | [Track](https://www.amazon.com/Elf-Will-Ferrell/dp/B09PQ88296)  |
+
+**Children’s Day Movie Marathon**
+
+| Sl. No | Movie Name         |                                   Track                                           |
+|--------|--------------------| ----------------------------------------------------------------------------------|
+| 1      | Harry Potter and the Philosopher’s Stone        | [Trailor](https://www.amazon.com/Microcosmos-Kristin-Scott-Thomas/dp/B08Z8BYXBD)  |
+| 2      | The Jungle Book     | [Track](https://www.amazon.com/Ivory-Game-H-Scott-Salinas/dp/B073JP2CXZ)          |
+| 3      | Mary Poppins | [Track](https://www.amazon.com/March-Penguins-Morgan-Freeman/dp/B0014C3KSM)       |
+| 4      | Home Alone    | |
+| 5      | Toy Story   |  |
+| 6      | Finding Nemo   |  |
+| 7      |  The Lion King  |  |
+| 8      | The Incredibles   |  |
+| 8      |  Matilda  |  |
+| 8      |   Shrek |  |
+| 8      |  E.T. the Extra-Terrestrial  |   |
+| 8      |  Moana  |   |
+| 8      |  Beauty and the Beast |   |
 <!--
 
 <a href="https://github.com/The-Kids-RobinAge/Movies/blob/main/Microcosmos/About">Microcosmos</a>
