@@ -10,8 +10,18 @@
 | 1      | Microcosmos        | [Trailor](https://www.amazon.com/Microcosmos-Kristin-Scott-Thomas/dp/B08Z8BYXBD)  |
 | 2      | The Ivory Game     | [Track](https://www.amazon.com/Ivory-Game-H-Scott-Salinas/dp/B073JP2CXZ)          |
 | 3      |March of the Penquin| [Track](https://www.amazon.com/March-Penguins-Morgan-Freeman/dp/B0014C3KSM)       |
- |
 
+
+**Santa Picks:Christmas Flicks**
+
+| Sl. No | Movie Name                          |                                   Track                                           |
+|--------|-------------------------------------| ----------------------------------------------------------------------------------|
+| 1      | The Grinch                          | [Track](https://www.primevideo.com/detail/The-Grinch/0HBUSZ5WNXYHEMIIG3B2TQ6HPM))   |
+| 2      | Klaus                               | [Track](https://www.primevideo.com/detail/Klaus/0IE90UDSKY7W2CSGIB8A1EDZQE/ref=atv_nb_lcl_it_IT?language=it_IT&ie=UTF8)         |
+| 3      | A Boy Called Christmas              | [Track](https://www.amazon.co.uk/Boy-Called-Christmas-Maggie-Smith/dp/B09Q53RTRJ)     |
+| 4      | Jingle Jangle: A Christmas Journey  | [Track](https://www.amazon.com/Jingle-Jangle-Christmas-Journey-Original/dp/B08MX68YYV)  |
+| 5      | Elf                                 | [Track](https://www.amazon.com/Elf-Will-Ferrell/dp/B09PQ88296)  |
+<!--
 
 <a href="https://github.com/The-Kids-RobinAge/Movies/blob/main/Microcosmos/About">Microcosmos</a>
 - [Trailor](https://www.amazon.com/Microcosmos-Kristin-Scott-Thomas/dp/B08Z8BYXBD)
@@ -40,7 +50,7 @@
   - [Track](https://www.amazon.com/Elf-Will-Ferrell/dp/B09PQ88296)
 
 
-<!--
+
 
 **Here are some ideas to get you started:**
 
