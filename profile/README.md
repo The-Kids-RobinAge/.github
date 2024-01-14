@@ -17,8 +17,8 @@ In the RobinAge Almanac, curiosity blossoms on every page, fostering a vibrant j
 #### WhizKids Gazette: Adventures with RobinAge :star:
 
 | Sl. No | Book         | Author|  Link |
-|--------|---------------| ----------------------------------------------------------------------------------|
-| 1      |         |  | |
+|--------|---------------| --------------|
+| 1      |   Harry Potter |  J K Rowling|  Jan 2024|
 | 2      |      |          | |
 | 3      |        |   | |
 
