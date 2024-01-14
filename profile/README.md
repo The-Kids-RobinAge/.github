@@ -16,20 +16,23 @@ In the RobinAge Almanac, curiosity blossoms on every page, fostering a vibrant j
 
 #### WhizKids Gazette: Adventures with RobinAge :star:
 
-| Sl. No | Book         | Author|  Link |
-|--------|---------------| --------------|
-| 1      |   Harry Potter |  J K Rowling|  Jan 2024|
-| 2      |      |          | |
-| 3      |        |   | |
+| Sl No | Book                | Author          | Link                        |
+|-------|---------------------|-----------------|-----------------------------|
+| 1     | Book 1              | Author 1        | [Link to Book 1](URL1)      |
+| 2     | Book 2              | Author 2        | [Link to Book 2](URL2)      |
+| 3     | Book 3              | Author 3        | [Link to Book 3](URL3)      |
+| 4     | Book 4              | Author 4        | [Link to Book 4](URL4)      |
+| 5     | Book 5              | Author 5        | [Link to Book 5](URL5)      |
 
 #### RobinAge Rhythms: Harmony of Fun and Learning :star:
 
-| Sl. No | Inventions and Fun   Link |
-|--------|---------------| ----------------------------------------------------------------------------------|
-| 1      |         |  | 
-| 2      |      |          | 
-| 3      |        |   | 
-
+| Sl No | Inventions and Fun   | Link                           |
+|-------|-----------------------|--------------------------------|
+| 1     | Invention 1           | [Link to Invention 1](URL1)     |
+| 2     | Invention 2           | [Link to Invention 2](URL2)     |
+| 3     | Invention 3           | [Link to Invention 3](URL3)     |
+| 4     | Invention 4           | [Link to Invention 4](URL4)     |
+| 5     | Invention 5           | [Link to Invention 5](URL5)     |
 ### <p align = center>Movie Mischief: RobinAge's Reel Escapades 🎬 🍿 🎥 🎞️ 📽️ 🎦 🕶️ </p> 
 
 
