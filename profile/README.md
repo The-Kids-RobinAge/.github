@@ -1,9 +1,9 @@
 
-# <p align = center> RobinAge Almanac: Nurturing Curiosity in Every Page:star:</p>
+# <p align = center> RobinAge Almanac: Nurturing Curiosity in Every Page :star:</p>
 ### <p align = center> <I>Imagine, Explore, Discover: RobinAge Chronicles :star: </I></p>
 
 
-In the RobinAge Almanac, curiosity blossoms on every page, fostering a vibrant journey of learning for young minds. Each turn reveals a rich tapestry, weaving inspiration seamlessly into the fabric of exploration and discovery.:star::star::star::star::star:
+In the RobinAge Almanac, curiosity blossoms on every page, fostering a vibrant journey of learning for young minds. Each turn reveals a rich tapestry, weaving inspiration seamlessly into the fabric of exploration and discovery. :star::star::star::star::star:
 
 **Embark on Adventures** :star::star:
 - Within the pages of RobinAge Chronicles, young minds embark on captivating adventures, exploring a world where curiosity knows no bounds.
