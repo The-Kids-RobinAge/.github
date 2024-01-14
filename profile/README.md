@@ -9,7 +9,7 @@
 
 #### RobinAge Rhythms: Harmony of Fun and Learning
 
-### <p align = center>Movie Mischief: RobinAge's Reel Escapades 🎬 🍿 🎥 🎞️ 🎭 📽️ 🍫🎫 🎦 🎫 🕶️ </p> 
+### <p align = center>Movie Mischief: RobinAge's Reel Escapades 🎬 🍿 🎥 🎞️ 📽️ 🎦 🕶️ </p> 
 
 
 
