@@ -1,6 +1,6 @@
 
 # <p align = center> RobinAge Almanac</p>
-### <p align = center> Nurturing Curiosity in Every Page </p>
+### <p align = center> <I>Nurturing Curiosity in Every Page </I></p>
 
 
 ## Hi there 👋
