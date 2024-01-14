@@ -16,7 +16,19 @@ In the RobinAge Almanac, curiosity blossoms on every page, fostering a vibrant j
 
 #### WhizKids Gazette: Adventures with RobinAge :star:
 
+| Sl. No | Book         | Author|  Link |
+|--------|---------------| ----------------------------------------------------------------------------------|
+| 1      |         |  | |
+| 2      |      |          | |
+| 3      |        |   | |
+
 #### RobinAge Rhythms: Harmony of Fun and Learning :star:
+
+| Sl. No | Inventions and Fun   Link |
+|--------|---------------| ----------------------------------------------------------------------------------|
+| 1      |         |  | 
+| 2      |      |          | 
+| 3      |        |   | 
 
 ### <p align = center>Movie Mischief: RobinAge's Reel Escapades 🎬 🍿 🎥 🎞️ 📽️ 🎦 🕶️ </p> 
 
