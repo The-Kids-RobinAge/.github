@@ -6,6 +6,8 @@
 
 ### <p align = center>Imagine, Explore, Discover: RobinAge Chronicles </p>
 #### WhizKids Gazette: Adventures with RobinAge
+
+#### RobinAge Rhythms: Harmony of Fun and Learning
 **Movies**
 
 | Sl. No | Movie Name         |                                   Track                                           |
