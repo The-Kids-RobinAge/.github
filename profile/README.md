@@ -3,8 +3,6 @@
 ### <p align = center> <I>Imagine, Explore, Discover: RobinAge Chronicles </I></p>
 
 
-
-## Hi there 👋
 In the RobinAge Almanac, curiosity blossoms on every page, fostering a vibrant journey of learning for young minds. Each turn reveals a rich tapestry, weaving inspiration seamlessly into the fabric of exploration and discovery.
 
 **Embark on Adventures** 
