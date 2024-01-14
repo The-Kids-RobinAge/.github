@@ -14,9 +14,9 @@ In the RobinAge Almanac, curiosity blossoms on every page, fostering a vibrant j
 **Inspiring Creativity**:star::star:
 - RobinAge Chronicles is not just a newspaper; it's a canvas of inspiration, where each page paints a picture of creativity, encouraging children to dream, imagine, and explore.
 
-#### WhizKids Gazette: Adventures with RobinAge
+#### WhizKids Gazette: Adventures with RobinAge :star:
 
-#### RobinAge Rhythms: Harmony of Fun and Learning
+#### RobinAge Rhythms: Harmony of Fun and Learning :star:
 
 ### <p align = center>Movie Mischief: RobinAge's Reel Escapades 🎬 🍿 🎥 🎞️ 📽️ 🎦 🕶️ </p> 
 
