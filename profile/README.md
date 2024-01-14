@@ -16,7 +16,6 @@
 
 ### <p align = center> WhizKids Gazette: Adventures with RobinAge :star:</p>
 
-
 | Sl No | Book                | Author          | Link                        |
 |-------|---------------------|-----------------|-----------------------------|
 | 1     | Book 1              | Author 1        | [Link to Book 1](URL1)      |
