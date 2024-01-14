@@ -1,17 +1,17 @@
 
-# <p align = center> RobinAge Almanac: Nurturing Curiosity in Every Page</p>
-### <p align = center> <I>Imagine, Explore, Discover: RobinAge Chronicles </I></p>
+# <p align = center> RobinAge Almanac: Nurturing Curiosity in Every Page:star:</p>
+### <p align = center> <I>Imagine, Explore, Discover: RobinAge Chronicles :star: </I></p>
 
 
-In the RobinAge Almanac, curiosity blossoms on every page, fostering a vibrant journey of learning for young minds. Each turn reveals a rich tapestry, weaving inspiration seamlessly into the fabric of exploration and discovery.
+In the RobinAge Almanac, curiosity blossoms on every page, fostering a vibrant journey of learning for young minds. Each turn reveals a rich tapestry, weaving inspiration seamlessly into the fabric of exploration and discovery.:star::star::star::star::star:
 
-**Embark on Adventures** 
+**Embark on Adventures** :star::star:
 - Within the pages of RobinAge Chronicles, young minds embark on captivating adventures, exploring a world where curiosity knows no bounds.
 
-**Nurturing Young Minds**
+**Nurturing Young Minds**:star::star:
 - With every turn of the page, RobinAge Chronicles unfolds stories and activities carefully crafted to nurture young minds, fostering a love for learning and discovery.
 
-**Inspiring Creativity**
+**Inspiring Creativity**:star::star:
 - RobinAge Chronicles is not just a newspaper; it's a canvas of inspiration, where each page paints a picture of creativity, encouraging children to dream, imagine, and explore.
 
 #### WhizKids Gazette: Adventures with RobinAge
