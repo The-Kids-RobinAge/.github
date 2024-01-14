@@ -9,7 +9,7 @@
 
 #### RobinAge Rhythms: Harmony of Fun and Learning
 
-**Movie Mischief: RobinAge's Reel Escapades**
+<p align = center>**Movie Mischief: RobinAge's Reel Escapades**</p>
 
 | Sl. No | Movie Name         |                                   Track                                           |
 |--------|--------------------| ----------------------------------------------------------------------------------|
