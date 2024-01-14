@@ -3,7 +3,9 @@
 
 ## Hi there 👋
 
-## WhizKids Gazette: Adventures with RobinAge
+
+### Imagine, Explore, Discover: RobinAge Chronicles
+#### WhizKids Gazette: Adventures with RobinAge
 **Movies**
 
 | Sl. No | Movie Name         |                                   Track                                           |
@@ -88,6 +90,10 @@
 | 3      | FRED CLAUS | [Track](https://www.amazon.com/March-Penguins-Morgan-Freeman/dp/B0014C3KSM)       |
 | 4      | A BOY CALLED CHRISTMAS  | |
 | 5      |HOW THE GRINCH STOLE CHRISTMAS  |  |
+
+
+
+
 <!--
 
 <a href="https://github.com/The-Kids-RobinAge/Movies/blob/main/Microcosmos/About">Microcosmos</a>
