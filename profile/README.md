@@ -1,11 +1,11 @@
 
-# <p align = center> RobinAge Almanac</p>
-### <p align = center> <I>Nurturing Curiosity in Every Page </I></p>
+# <p align = center> RobinAge Almanac: Nurturing Curiosity in Every Page</p>
+### <p align = center> <I>Imagine, Explore, Discover: RobinAge Chronicles </I></p>
 
 
 
 ## Hi there 👋
-### <p align = center>Imagine, Explore, Discover: RobinAge Chronicles </p>
+
 #### WhizKids Gazette: Adventures with RobinAge
 
 #### RobinAge Rhythms: Harmony of Fun and Learning
