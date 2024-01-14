@@ -4,7 +4,7 @@
 ## Hi there 👋
 
 
-### Imagine, Explore, Discover: RobinAge Chronicles
+### <p align = center>Imagine, Explore, Discover: RobinAge Chronicles </p>
 #### WhizKids Gazette: Adventures with RobinAge
 **Movies**
 
